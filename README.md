@@ -9,7 +9,7 @@ The city and specified time filter can be chosen, and the relevant statistics ar
 References used
 -----------------
 
-I have/ used the following to help me with Python and specifically this project:
+I have used the following to help me with Python and specifically this project:
 
 - StackOverflow to help me understand how to use ditreader, datetime and strptime, the csv module and also collections - Counter.
 - "Automate the Boring Stuff with Python: Practical Programming for Total Beginners" by Al Sweigart
